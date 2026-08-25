@@ -10,6 +10,7 @@ This repository is the reusable layer of the BDR outbound system.
 - `04_Architecture/` explains the broader system boundary and how the reusable files relate.
 - `05_Examples/` contains clearly labeled examples. Examples are not instructions and do not replace current research.
 - `05_Change_Log/` records rule changes and the evidence behind them.
+- `06_Skills/` contains versioned source definitions for the reusable Codex skills installed locally.
 - `02_Knowledge/enterprise-bdr-operating-controls.md` defines the controls around sending, CRM records, suppression, handoffs, and measurement.
 
 ## Outside this repository

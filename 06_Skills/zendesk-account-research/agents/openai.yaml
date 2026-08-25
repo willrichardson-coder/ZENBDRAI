@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Account Research"
+  short_description: "Research accounts into verified Zendesk signals"
+  default_prompt: "Use $zendesk-account-research to research this account before selecting prospects."

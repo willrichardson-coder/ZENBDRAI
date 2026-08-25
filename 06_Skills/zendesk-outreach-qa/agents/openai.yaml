@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Outreach QA"
+  short_description: "Audit Zendesk outbound drafts before use"
+  default_prompt: "Use $zendesk-outreach-qa to audit this outreach draft."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Source Verification"
+  short_description: "Verify current Zendesk facts and evidence"
+  default_prompt: "Use $zendesk-source-verification to verify these Zendesk claims."

@@ -41,6 +41,7 @@ Do not assume the sender identity, territory, compliance rules, customer permiss
 - `01_Rules`: active drafting rules and the email standard
 - `02_Knowledge`: selected product, customer proof, competitive, ROI, discovery, and prospecting references
 - `03_Templates`: a simple account-to-outreach worksheet
+- `06_Skills`: reusable Codex skills built from the rules and knowledge
 
 Use the structured paths above as the canonical files. The root-level `zendesk-account-to-outreach-rules.md` and `fortive-outreach-final.md` are compatibility copies retained for convenience. Do not edit them independently.
 

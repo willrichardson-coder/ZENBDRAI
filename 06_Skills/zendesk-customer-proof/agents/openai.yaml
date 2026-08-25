@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Customer Proof"
+  short_description: "Select and validate Zendesk customer evidence"
+  default_prompt: "Use $zendesk-customer-proof to validate this customer proof."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enterprise BDR Handoff"
+  short_description: "Prepare evidence-backed AE handoffs"
+  default_prompt: "Use $enterprise-bdr-handoff to prepare this handoff."

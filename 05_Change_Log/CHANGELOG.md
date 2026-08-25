@@ -24,3 +24,4 @@ This file records changes to the repository's rules and the evidence behind them
 - Added a competitive-claim verification standard and rewrote live-call incumbent language as evidence-led discovery prompts.
 - Added enterprise BDR operating controls for compliance review, CRM fields, suppression, explicit send approval, AE handoff, and outcome measurement.
 - Moved the historical archive and legacy ZIP to the separate Desktop folder `ALL AI - Historical` so the active folder contains current operating material only.
+- Created and validated six reusable Codex skills, then packaged their source definitions under `06_Skills/`.

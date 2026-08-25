@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Outreach Drafting"
+  short_description: "Draft evidence-led enterprise Zendesk outreach"
+  default_prompt: "Use $zendesk-outreach-drafting to draft this account-based sequence."
