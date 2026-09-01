@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Execution Loop"
+  short_description: "Orchestrate clean daily seller tool flow"
+  default_prompt: "Use $zendesk-bdr-execution-loop to plan or audit today’s BDR workflow across the available seller tools."

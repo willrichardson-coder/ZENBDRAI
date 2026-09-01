@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Deal Strategy"
+  short_description: "Build a buyer-evidence-led New Business deal plan"
+  default_prompt: "Use $zendesk-nb-deal-strategy to assess this Zendesk New Business opportunity and prioritize the next buyer actions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Risk and Renewal Plan"
+  short_description: "Coordinate customer risk and renewal action"
+  default_prompt: "Use $zendesk-expansion-risk-and-renewal-plan to build an evidence-backed risk and renewal coordination plan for this account."

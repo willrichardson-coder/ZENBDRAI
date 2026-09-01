@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Value Review"
+  short_description: "Prepare a customer-centered value review"
+  default_prompt: "Use $zendesk-expansion-value-review-prep to prepare a customer value review from current evidence."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk AE Industry Account POV"
+  short_description: "Create a sourced and testable account perspective"
+  default_prompt: "Use $zendesk-ae-industry-account-pov to build a sourced, testable industry point of view for this account."

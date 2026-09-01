@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Manager Ramp Coaching"
+  short_description: "Coach role readiness from learning and observed work"
+  default_prompt: "Use $zendesk-manager-ramp-coaching to prepare role-aware ramp coaching from learning and observed work evidence."

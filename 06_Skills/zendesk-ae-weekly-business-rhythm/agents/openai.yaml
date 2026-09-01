@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk AE Weekly Business Rhythm"
+  short_description: "Build a focused evidence-backed selling week"
+  default_prompt: "Use $zendesk-ae-weekly-business-rhythm to build a focused, evidence-backed plan for this selling week."

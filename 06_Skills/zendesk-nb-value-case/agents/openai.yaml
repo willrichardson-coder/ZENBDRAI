@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Value Case"
+  short_description: "Build a transparent buyer-ready value case"
+  default_prompt: "Use $zendesk-nb-value-case to build a transparent value case from this buyer and deal evidence."

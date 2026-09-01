@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk AE Execution Loop"
+  short_description: "Plan or audit connected seller tool flow"
+  default_prompt: "Use $zendesk-ae-execution-loop to plan or audit this seller workflow across the available tools."

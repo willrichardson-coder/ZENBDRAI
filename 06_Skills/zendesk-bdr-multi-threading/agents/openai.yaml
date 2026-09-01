@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Multi-Threading"
+  short_description: "Expand engagement beyond one contact"
+  default_prompt: "Use $zendesk-bdr-multi-threading to build a coordinated stakeholder engagement plan for this account."

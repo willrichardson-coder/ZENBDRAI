@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Team Pipeline"
+  short_description: "Inspect territory coverage and pipeline creation"
+  default_prompt: "Use $zendesk-nb-manager-territory-and-pipeline to inspect this team’s territory coverage and pipeline creation."

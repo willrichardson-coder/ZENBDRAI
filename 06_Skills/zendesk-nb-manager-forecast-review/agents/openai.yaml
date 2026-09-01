@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Manager Forecast"
+  short_description: "Review rollup movement evidence and risk"
+  default_prompt: "Use $zendesk-nb-manager-forecast-review to review this team forecast, movement evidence, and risk."

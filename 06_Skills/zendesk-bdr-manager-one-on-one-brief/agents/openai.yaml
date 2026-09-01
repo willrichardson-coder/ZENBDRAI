@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Manager One-on-One"
+  short_description: "Prepare an evidence-backed BDR one-on-one"
+  default_prompt: "Use $zendesk-bdr-manager-one-on-one-brief to prepare this BDR manager one-on-one."

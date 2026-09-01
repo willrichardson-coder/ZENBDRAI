@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Outreach Messaging"
+  short_description: "Draft approved email and LinkedIn outreach"
+  default_prompt: "Use $zendesk-bdr-outreach-messaging to draft sourced email or LinkedIn outreach for this account."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk AE Solution Discovery"
+  short_description: "Map customer workflows to governed solution questions"
+  default_prompt: "Use $zendesk-ae-product-solution-discovery to map this customer workflow to governed solution questions and specialist needs."

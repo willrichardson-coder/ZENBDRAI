@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Forecast"
+  short_description: "Review forecast evidence and next actions"
+  default_prompt: "Use $zendesk-nb-forecast-and-next-actions to review this New Business forecast and prioritize evidence-backed next actions."

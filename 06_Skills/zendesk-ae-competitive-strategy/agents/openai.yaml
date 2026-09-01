@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk AE Competitive Strategy"
+  short_description: "Build a current source-governed competitive plan"
+  default_prompt: "Use $zendesk-ae-competitive-strategy to prepare a source-governed competitive strategy for this account or deal."

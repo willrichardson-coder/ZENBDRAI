@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Manager Coaching"
+  short_description: "Coach one BDR competency from observed evidence"
+  default_prompt: "Use $zendesk-bdr-manager-coaching to coach this BDR competency from observed work evidence."

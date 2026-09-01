@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Account Plan"
+  short_description: "Build a source-backed account plan"
+  default_prompt: "Use $zendesk-nb-account-plan to build a source-backed New Business account plan."

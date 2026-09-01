@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Manager Pipeline Review"
+  short_description: "Inspect created pipeline and meeting quality"
+  default_prompt: "Use $zendesk-bdr-manager-pipeline-review to inspect this team’s created pipeline and meeting quality."

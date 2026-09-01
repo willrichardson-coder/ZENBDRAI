@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Manager Call Review"
+  short_description: "Coach cold and qualification calls from transcripts"
+  default_prompt: "Use $zendesk-bdr-manager-call-review to review this BDR call from attributable transcript evidence."

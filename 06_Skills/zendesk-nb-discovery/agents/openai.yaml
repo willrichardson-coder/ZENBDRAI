@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Discovery"
+  short_description: "Prepare evidence-backed buyer discovery"
+  default_prompt: "Use $zendesk-nb-discovery to prepare this New Business discovery from current buyer evidence."

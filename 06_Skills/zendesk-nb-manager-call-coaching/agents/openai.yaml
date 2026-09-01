@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Call Coaching"
+  short_description: "Coach AE calls from exact transcript moments"
+  default_prompt: "Use $zendesk-nb-manager-call-coaching to coach this AE call from exact transcript moments."

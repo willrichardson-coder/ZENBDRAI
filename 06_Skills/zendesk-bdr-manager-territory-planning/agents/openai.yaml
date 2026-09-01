@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Manager Territory Plan"
+  short_description: "Balance coverage capacity signals and plays"
+  default_prompt: "Use $zendesk-bdr-manager-territory-planning to review and balance this team’s territory coverage plan."

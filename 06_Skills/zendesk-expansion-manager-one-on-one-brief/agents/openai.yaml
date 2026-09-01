@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Manager One-on-One"
+  short_description: "Prepare a customer-centered AE one-on-one"
+  default_prompt: "Use $zendesk-expansion-manager-one-on-one-brief to prepare this Expansion AE one-on-one."

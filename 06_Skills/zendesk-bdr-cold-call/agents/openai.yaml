@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Cold Call"
+  short_description: "Prepare and rehearse a sourced cold call"
+  default_prompt: "Use $zendesk-bdr-cold-call to prepare and rehearse a sourced cold call for this account and contact."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Discovery"
+  short_description: "Test customer-value expansion hypotheses"
+  default_prompt: "Use $zendesk-expansion-discovery to prepare an evidence-backed expansion discovery plan for this customer."

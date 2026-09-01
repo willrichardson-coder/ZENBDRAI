@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Qualification"
+  short_description: "Assess need timing and the next conversation"
+  default_prompt: "Use $zendesk-bdr-qualification to prepare or assess this qualification conversation from attributable evidence."

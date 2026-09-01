@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Account Plan"
+  short_description: "Prioritize evidence-backed Zendesk expansion paths"
+  default_prompt: "Use $zendesk-expansion-account-plan to build an evidence-backed expansion plan for this customer account."

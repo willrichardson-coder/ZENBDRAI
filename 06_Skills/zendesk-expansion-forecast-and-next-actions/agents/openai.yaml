@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Forecast and Next Actions"
+  short_description: "Review expansion forecast evidence and next moves"
+  default_prompt: "Use $zendesk-expansion-forecast-and-next-actions to review this expansion forecast and prioritize evidence-changing next actions."

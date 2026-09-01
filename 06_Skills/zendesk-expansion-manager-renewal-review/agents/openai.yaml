@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Manager Renewal Review"
+  short_description: "Review renewal risk and mitigation"
+  default_prompt: "Use $zendesk-expansion-manager-renewal-review to review renewal risk and mitigation ownership."

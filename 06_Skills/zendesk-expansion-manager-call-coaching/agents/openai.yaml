@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Manager Call Coaching"
+  short_description: "Coach customer calls from transcript evidence"
+  default_prompt: "Use $zendesk-expansion-manager-call-coaching to coach this customer call from transcript evidence."

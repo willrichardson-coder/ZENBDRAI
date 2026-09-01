@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Manager Deal Review"
+  short_description: "Inspect buyer progress and coach the deal decision"
+  default_prompt: "Use $zendesk-nb-manager-deal-review to prepare an evidence-backed manager review of this New Business deal."

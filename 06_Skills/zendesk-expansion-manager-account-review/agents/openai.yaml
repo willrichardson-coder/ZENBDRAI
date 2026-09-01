@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Manager Account Review"
+  short_description: "Inspect customer-book health and focus"
+  default_prompt: "Use $zendesk-expansion-manager-account-review to inspect this Expansion AE customer book."

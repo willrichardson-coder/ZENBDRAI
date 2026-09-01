@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Manager One-on-One"
+  short_description: "Prepare an evidence-backed AE one-on-one"
+  default_prompt: "Use $zendesk-nb-manager-one-on-one-brief to prepare this New Business AE one-on-one."

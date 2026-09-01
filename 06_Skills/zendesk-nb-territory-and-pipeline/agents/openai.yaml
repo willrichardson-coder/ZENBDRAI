@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Territory Plan"
+  short_description: "Plan territory coverage and pipeline creation"
+  default_prompt: "Use $zendesk-nb-territory-and-pipeline to build an evidence-backed territory and pipeline creation plan."

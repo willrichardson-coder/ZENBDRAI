@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Expansion Manager Forecast Review"
+  short_description: "Review expansion and renewal forecast evidence"
+  default_prompt: "Use $zendesk-expansion-manager-forecast-review to review the current expansion and renewal forecast."

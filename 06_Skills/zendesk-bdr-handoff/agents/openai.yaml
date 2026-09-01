@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Bdr Handoff"
+  short_description: "Prepare evidence-backed BDR-to-AE handoffs"
+  default_prompt: "Use $zendesk-bdr-handoff to prepare a precise Stage 1 handoff for the AE from the available evidence."

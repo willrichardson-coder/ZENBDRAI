@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk New Business Prospecting"
+  short_description: "Prepare AE-led problem-focused prospecting"
+  default_prompt: "Use $zendesk-nb-prospecting to prepare a sourced, problem-focused prospecting plan for this account."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk BDR Account Research"
+  short_description: "Build a source-backed Zendesk BDR account brief"
+  default_prompt: "Use $zendesk-bdr-account-research to research this assigned account and recommend the next-best BDR action."

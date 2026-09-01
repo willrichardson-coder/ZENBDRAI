@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zendesk Bdr Prospecting Plan"
+  short_description: "Prioritize accounts, contacts, and next actions"
+  default_prompt: "Use $zendesk-bdr-prospecting-plan to build a source-backed prospecting plan for this assigned account set."
