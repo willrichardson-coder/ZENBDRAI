@@ -5,7 +5,9 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-DB = os.path.join(ROOT, 'data', 'research_hub.sqlite3')
+REPO = os.path.abspath(os.path.join(ROOT, '..'))
+DATA_ROOT = os.environ.get('RESEARCH_HUB_DATA_DIR', os.path.join(REPO, '08_Working_Accounts', 'research_hub', 'data'))
+DB = os.path.join(DATA_ROOT, 'research_hub.sqlite3')
 CSV_FILES = [
     '/Users/will.richardson/Downloads/report1787338646698.csv',
     '/Users/will.richardson/Downloads/report1787338765805.csv',

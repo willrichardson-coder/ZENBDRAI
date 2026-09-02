@@ -5,12 +5,12 @@
 From the repository root:
 
 ```sh
-python3 08_Working_Accounts/research_hub/app.py
+python3 research_hub/app.py
 ```
 
 Open http://127.0.0.1:8765.
 
-The app imports the five configured CSV files on startup. It matches accounts by `API Id`, updates CSV-owned fields on refresh, and never deletes research, contacts, or drafts. The SQLite database is stored under `data/`, which is inside the ignored local workspace.
+The app imports the five configured CSV files on startup. It matches accounts by `API Id`, updates CSV-owned fields on refresh, and never deletes research, contacts, or drafts. The SQLite database stays under `08_Working_Accounts/research_hub/data/`, inside the ignored local workspace. Set `RESEARCH_HUB_DATA_DIR` to use another private data directory.
 
 The one-time `legacy_import.py` migration imported prior account work from Vans, AgileOne, Papa Murphy's International, Fortive, Accruent, and Krispy Kreme Doughnuts, plus account-specific LinkedIn contacts and dated outreach found in Google Drive. It is safe to rerun because exact existing research and draft records are not duplicated.
 
