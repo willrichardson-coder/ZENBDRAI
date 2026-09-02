@@ -5,7 +5,7 @@ description: Build a source-backed Zendesk BDR account brief with fit and trigge
 
 # Zendesk BDR account research
 
-Turn one assigned account or a bounded account set into a decision-ready BDR brief. Optimize for whom to contact, why this account, why now, and what must be validated—not for a generic company profile.
+Turn one assigned account or a bounded account set into a decision-ready BDR brief. Optimize for whom to contact, why this account, why now, and what must be validated, not for a generic company profile.
 
 Read [the Zendesk evidence and process contract](../../references/shared/zendesk-evidence-and-process.md). Read [the customer-risk and claims policy](../../references/shared/zendesk-risk-and-claims-policy.md) when using product, customer-proof, or competitive evidence. Read [the workspace source registry](../../references/shared/workspace-source-registry.md) when using Salesforce, seller-accessible Snowflake evidence, or an approved Sales Play. Read [Sales plugin composition](../../references/shared/sales-plugin-composition.md) when the installed Sales plugin is available. Read [the Level Up learning loop](../../references/shared/level-up-learning-loop.md) only if the work exposes reusable friction or a repeatable practice.
 
@@ -25,7 +25,7 @@ Confirm the exact account identity, seller/territory owner when supplied, segmen
 2. Evaluate the account through the four visible Zendesk lenses: ICP fit, digital maturity, business model, and operating environment. Keep each lens `Observed`, `Hypothesis`, or `Unresolved`; do not invent the inaccessible detail panels.
 3. Apply the current Sales Process Hub segment definition. Do not infer a different segment from public headcount when Salesforce has an authoritative segment; show the discrepancy. Do not silently apply the conflicting 2026 persona-page downmarket/upmarket bands.
 4. For Tier 1 accounts, use deeper account-specific research, including customer-experience mystery shopping when lawful and appropriate. For Tier 2 and below, keep the pass bounded to high-yield primary sources such as the company site, annual report, leadership statements, and relevant buyer profiles.
-5. Use Common Room, approved intent signals, and public research as prioritization evidence—not proof of need or buying intent.
+5. Use Common Room, approved intent signals, and public research as prioritization evidence, not proof of need or buying intent.
 6. Map the likely buying group to the visible Zendesk contact roles. Treat buyer-group labels as internal purchasing-role monikers, not job titles. Keep every person-role mapping a hypothesis until supported by Salesforce or customer evidence.
 7. Produce one to three `Why You, Why Now` hypotheses tied to a sourced business change, workflow, or customer-experience signal. If an approved play applies, route to its exact current source map, persona overlay, copy revision, and claim ledger. Otherwise use the exact current customer-facing product source, customer story/reference, or competitive asset for the needed claim type. Play-specific personas and claims do not become general Zendesk guidance; do not use `pending` or `blocked` claims, invent a claim, reuse a story outside its scope/permission, quote the internal product comparison chart, or rewrite evaluated sequence copy.
 8. State disqualifiers, suppressions, exact-ID gaps, stale evidence, and the smallest questions that would change prioritization.

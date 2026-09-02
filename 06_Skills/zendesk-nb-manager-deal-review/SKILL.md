@@ -5,7 +5,7 @@ description: Run an evidence-backed Zendesk front-line manager review of a New B
 
 # Zendesk New Business manager deal review
 
-Prepare a manager to inspect decision quality and buyer movement—not merely collect updates or reward complete-looking CRM fields.
+Prepare a manager to inspect decision quality and buyer movement, not merely collect updates or reward complete-looking CRM fields.
 
 Read [the Zendesk evidence and process contract](../../references/shared/zendesk-evidence-and-process.md), [the customer-risk and claims policy](../../references/shared/zendesk-risk-and-claims-policy.md), and [the workspace source registry](../../references/shared/workspace-source-registry.md). Compose with the Sales plugin's `plan-deal-strategy` for deal mechanics, `review-forecast` when a forecast decision is requested, and `get-rep-call-feedback` only when a directly read call or transcript is in scope. Use [Sales plugin composition](../../references/shared/sales-plugin-composition.md) for ownership boundaries.
 

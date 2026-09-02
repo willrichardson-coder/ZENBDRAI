@@ -2,6 +2,20 @@
 
 This file records changes to the repository's rules and the evidence behind them.
 
+## 2026-09-02
+
+- Added a root `AGENTS.md` that loads the canonical rules and protects the shared framework during normal account work.
+- Added one ignored teammate assignment file for account-to-AE mapping.
+- Added an ignored local workspace for account research and drafts.
+- Added GitHub code ownership, contribution rules, and a pull request checklist.
+- Added an automated framework check for required files, local-data boundaries, assignment fields, and em dashes.
+- Simplified onboarding so teammates change only their account and AE assignments.
+- Added a GitHub entry page with a three-step teammate setup.
+- Replaced hardcoded sender names in canonical templates with a sender placeholder.
+- Removed the stale rule that prohibited every vendor-present Email 1.
+- Removed account-specific pipeline status from the shared knowledge base.
+- Clarified that examples and integration source may be present without becoming live account evidence.
+
 ## 2026-08-25
 
 - Locked the four-email writing architecture as the canonical structure.

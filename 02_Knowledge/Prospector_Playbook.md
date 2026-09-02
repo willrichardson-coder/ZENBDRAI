@@ -12,7 +12,7 @@ When this playbook conflicts with either rules file, the rules files win.
 **Territory:** Financial Services, Manufacturing, Healthcare, Retail, Tech,
 Energy, Food & Beverage, Chemicals, Federal Consulting. Enterprise
 (1,000+ employees). Legal/Professional Services is flagged out-of-territory
-- only work it via referral/multi-thread, confirm with Will first.
+- only work it via referral or multi-threading, and confirm with the assigned AE first.
 
 **ICP fit signals** (from `zendesk_expertise_knowledge_base_v3.md` §11),
 roughly in strength order:
@@ -36,11 +36,10 @@ roughly in strength order:
 - **Skip/flag:** Manager and below, titles outside CX/EX/IT/HR/AI/Ops/
   Procurement, or any title where the Zendesk angle is unclear (🔴 flag it)
 
-**COLD vs WARM gate** - check every account against the active-pipeline list
-(NRG Energy, AT&T, DFA, Yum! Brands, Dollar General, Sabre, Booz Allen,
-Coca-Cola, Academy Sports, Huntsman, Qdoba, Teleflora) before writing.
-Default to COLD (net-new) discipline unless the account is on that list -
-confirm mode with Will if ambiguous.
+**COLD vs WARM gate** - check every account against
+`../00_My_Workspace/MY_ASSIGNMENTS.md` and the approved CRM source before
+writing. Never default an unresolved account to cold. Confirm the motion with
+the assigned AE when status is missing or ambiguous.
 
 **Signal accuracy caveat:** Any inferred technology-use or customer-status
 signal is a hypothesis, not proof of a live contract or account state. Verify
@@ -104,7 +103,7 @@ outreach generation:
   regressing to one-sentence summaries.
 - Order matters: check-existing-context → fresh research → structured
   output. Doing research before the vault check risks contradicting ground
-  truth Will already established.
+  verified context already established.
 - Rep-provided research (Sales Nav notes, pasted docs) should do double
   duty: personalize the current draft AND surface any named people in it as
   additive prospects (`repProvided: true`), sorted to the top with a visible
@@ -136,7 +135,7 @@ Use three to five email opportunities inside an adaptive, multichannel account m
 
 The default cold motion may begin with:
 1. Account-relevant LinkedIn or email touch
-2. Email 1 - account hypothesis, no vendor name
+2. Email 1 - account hypothesis, product-neutral by default
 3. A distinct LinkedIn or phone touch when justified
 4. Email 2 - new operational implication or useful proof
 5. Email 3 - Zendesk point of view when the hypothesis still holds
@@ -146,11 +145,10 @@ Email and LinkedIn content must differ - never paste one into the other.
 Warm accounts require a separately approved re-engagement or expansion motion.
 Do not import an older cadence automatically.
 
-**Email 1 hard rules** (never violate): no vendor name, no proof point, no
-meeting ask, ≤100 words, signal-based hook only (never a generic pain
-opener), soft/interest-based CTA (prefer a binary diagnostic question when
-there's a real branching fork - cosmetic binary questions with no
-differentiated follow-up don't count).
+**Email 1 hard rules:** no meeting ask, no product dump, no unsupported claim,
+100 words or fewer, a signal-based hook, and one reply-focused question.
+Default to no vendor name or proof point. A controlled vendor-present test may
+use one short capability or proof sentence when the canonical rules allow it.
 
 **Emails 2-3:** pull proof points matched by pain first, then metric
 strength, then industry - a stronger off-vertical metric beats a weak

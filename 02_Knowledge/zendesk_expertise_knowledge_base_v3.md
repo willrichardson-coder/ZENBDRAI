@@ -12,7 +12,7 @@ Zendesk is an **AI-powered Resolution Platform** - not a ticketing tool, not a t
 
 Everything runs on the **Resolution Learning Loop™** - every interaction makes the AI smarter over time. This is the key differentiator against static automation tools.
 
-Default positioning is **additive, not replacement**. Zendesk complements existing infrastructure (Salesforce, ServiceNow, Microsoft, Oracle) rather than replacing it. This reduces objection surface and shortens the path to a discovery conversation. Only move to displacement framing when Will explicitly directs it.
+Default positioning is **additive, not replacement**. Zendesk complements existing infrastructure (Salesforce, ServiceNow, Microsoft, Oracle) rather than replacing it. This reduces objection surface and shortens the path to a discovery conversation. Only move to displacement framing when the user explicitly directs it.
 
 Zendesk named a **Leader in the 2025 Gartner Magic Quadrant for CRM Customer Engagement Center.**
 
@@ -20,13 +20,14 @@ Zendesk named a **Leader in the 2025 Gartner Magic Quadrant for CRM Customer Eng
 
 ## 2. VALUE-FIRST SELLING FRAMEWORK
 
-Will is a value-based seller. The prospect's pain always comes before Zendesk's product. Use this arc across every outreach sequence:
+The shared framework uses value-based selling. The prospect's operating problem comes before Zendesk's product. Use this arc across every outreach sequence:
 
 ### The Four-Email Writing Architecture
 
 **Email 1 - Make them feel understood**
 - Signal + pain observation + curiosity CTA
-- No vendor name. No proof point. No ask for a meeting.
+- Default to no vendor name, proof point, or meeting ask.
+- A controlled vendor-present test may use one short capability or proof sentence when the canonical rules allow it. Never ask for a meeting in Email 1.
 - The prospect should think: "This person actually gets what I'm dealing with."
 - 100 words maximum.
 
@@ -50,15 +51,9 @@ This architecture builds from account context to operating relevance, then tests
 
 ---
 
-## 3. ACTIVE ACCOUNTS - DO NOT TREAT AS COLD
+## 3. ACCOUNT STATUS
 
-These accounts already exist in Will's pipeline. Adjust framing accordingly - these are re-engagement or expansion plays, not cold outreach.
-
-NRG Energy, AT&T, Dairy Farmers of America (DFA), Yum! Brands, Dollar General, Sabre Industries, Booz Allen Hamilton, Coca-Cola, Academy Sports + Outdoors, Huntsman Corporation, Qdoba, Teleflora
-
-**Academy Sports:** Treat as an expansion hypothesis only after the approved account source confirms current Zendesk use.
-**AT&T:** Active engagement at FirstNet level. Emily Wiper (AVP Global Service & Digital) is the broader enterprise target.
-**NRG Energy:** Primary contacts Felix Chik and Heather Pena. Triggered by new CEO, billing settlement, and AI commentary from CAO.
+Use `../00_My_Workspace/MY_ASSIGNMENTS.md` for current account ownership, aligned AE, and motion. Never infer cold, warm, customer, or active-opportunity status from this knowledge base or from an example.
 
 ---
 
@@ -180,7 +175,7 @@ Use in Email 2 or Email 3 when primary proof points aren't the strongest pain ma
 
 ## 7. COMPETITOR POSITIONING
 
-Default framing is **additive** - Zendesk complements these systems. Only use displacement framing when Will directs it explicitly.
+Default framing is **additive** - Zendesk complements these systems. Only use displacement framing when the user directs it explicitly.
 
 | Competitor | Their weakness | Zendesk additive counter |
 |---|---|---|
@@ -241,7 +236,7 @@ Multi-threading targets. Not primary outreach unless Tier 1 and 2 are exhausted.
 *(Real case, 2026-07-11, VF Corporation: Benjamin Scheuer, title "Senior Program Manager, AI," bio explicitly states he vets third-party GenAI tools and owns governance for enterprise fit - despite title, ranked Tier 1/2, not skipped. Contrast Traci Otsuji, "Manager, Continuous Improvement Programs" - no tie to CX/IT/HR/AI, correctly stays low-priority.)*
 
 ### Skip / Flag
-- Manager level and below (unless Will directs otherwise, or the Manager-level exception above applies)
+- Manager level and below (unless the assigned AE directs otherwise, or the Manager-level exception above applies)
 - Titles outside CX, EX, IT, HR, AI, Operations, Procurement
 - 🔴 FLAG: Any title where the Zendesk angle is unclear
 

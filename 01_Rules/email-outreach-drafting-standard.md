@@ -270,7 +270,7 @@ Subject: [Company change or operating issue]
 [Specific company context]. [Likely operational consequence]. [One role-specific question].
 
 Best,  
-Will
+[Sender name]
 
 ### Email 2
 
@@ -281,7 +281,7 @@ Subject: [Operational implication]
 [New implication that was not stated in Email 1]. [Question about how the prospect sees or manages it].
 
 Best,  
-Will
+[Sender name]
 
 ### Email 3
 
@@ -292,7 +292,7 @@ Subject: [Zendesk-relevant capability]
 [Specific Zendesk capability connected to the account hypothesis]. [Question about whether that capability or problem is relevant].
 
 Best,  
-Will
+[Sender name]
 
 ### Email 4
 
@@ -303,7 +303,7 @@ Subject: [Direct qualification question]
 [Brief statement of why the issue may matter]. [Clear choice: relevant, owned elsewhere, or not a priority].
 
 Best,  
-Will
+[Sender name]
 
 ## Final QA Checklist
 

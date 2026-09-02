@@ -1,19 +1,15 @@
 # Shareable AI
 
-This folder is a clean starting point for AI-assisted Zendesk account research and outbound drafting.
+This repository is a protected shared framework for AI-assisted Zendesk account research and outbound drafting.
 
 ## Start here
 
-1. Read `SETUP_INSTRUCTIONS.md` if you are setting up a new copy.
-2. Read `01_Rules/zendesk-account-to-outreach-rules.md`.
-3. Read `01_Rules/email-outreach-drafting-standard.md`.
-4. Use `02_Knowledge/000_Knowledge_Index.md` to find supporting product, proof, competitive, ROI, and discovery material.
-5. Research the account before researching people.
-6. Separate verified facts, reasonable inferences, and unknowns.
-7. Map each prospect to one primary account signal.
-8. Draft four emails with distinct jobs: account hypothesis, operational implication, Zendesk point of view, and direct qualification.
-9. Run the final audit in the rules file before using any draft.
-10. Apply `02_Knowledge/enterprise-bdr-operating-controls.md` before approval, sending, CRM updates, or handoff.
+1. Follow `SETUP_INSTRUCTIONS.md` once.
+2. Add your accounts and aligned AEs to `00_My_Workspace/MY_ASSIGNMENTS.md`.
+3. Ask the agent to research an assigned account.
+4. Review every draft before use.
+
+The agent reads `AGENTS.md` automatically in a local Codex project. That file points to the canonical rules, protects the shared core, and requires the account-first workflow.
 
 ## Core operating principle
 
@@ -23,18 +19,13 @@ Write like a thoughtful operator who is testing a relevant business question:
 
 Keep the tone conversational, calm, specific, and low-pressure. Do not copy a coworker's voice mechanically. Use the useful pattern while preserving your own judgment.
 
-## Required setup before use
+## What each teammate changes
 
-Each coworker should add their own:
+Each teammate changes only `00_My_Workspace/MY_ASSIGNMENTS.md`.
 
-- Name, title, company, and signature
-- Sending domain and mailbox
-- Booking link, if used
-- Territory and target-account source
-- Compliance requirements and opt-out process
-- Three to five real messages that earned replies
+That file maps each assigned account to its aligned AE. It is excluded from Git so the account list stays local and the shared framework does not drift.
 
-Do not assume the sender identity, territory, compliance rules, customer permissions, or proof points in this folder apply unchanged to every user.
+Sender identity should come from the teammate's authenticated workspace context. If it is unavailable, the agent must leave a sender placeholder instead of using another person's identity.
 
 ## What this package contains
 
@@ -42,6 +33,8 @@ Do not assume the sender identity, territory, compliance rules, customer permiss
 - `02_Knowledge`: selected product, customer proof, competitive, ROI, discovery, and prospecting references
 - `03_Templates`: a simple account-to-outreach worksheet
 - `06_Skills`: reusable Codex skills built from the rules and knowledge
+- `00_My_Workspace`: the local account and AE assignment layer
+- `08_Working_Accounts`: ignored local research and drafts created during use
 
 Use the structured paths above as the canonical files. The root-level `zendesk-account-to-outreach-rules.md` and `fortive-outreach-final.md` are compatibility copies retained for convenience. Do not edit them independently.
 
@@ -49,7 +42,7 @@ The historical archive and legacy ZIP have been moved to the separate Desktop fo
 
 ## What this package does not contain
 
-This package intentionally excludes private prospect records, activity logs, credentials, local tool settings, scripts, legacy archives, duplicate files, and unverified personal voice samples.
+The shared framework excludes live assignment files, private prospect records, activity logs, credentials, local tool settings, legacy archives, and generated account work. Labeled examples and reusable integration source may remain in the repository, but they are not live account evidence or instructions.
 
 ## Source discipline
 
