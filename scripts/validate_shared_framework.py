@@ -20,7 +20,18 @@ REQUIRED = (
     "02_Knowledge/enterprise-bdr-operating-controls.md",
     ".github/CODEOWNERS",
 )
-TEXT_SUFFIXES = {".md", ".txt", ".yml", ".yaml", ".json", ".csv"}
+TEXT_SUFFIXES = {
+    ".md",
+    ".txt",
+    ".yml",
+    ".yaml",
+    ".json",
+    ".csv",
+    ".py",
+    ".sh",
+    ".zsh",
+}
+EXPECTED_SKILL_COUNT = 48
 
 
 def repository_files() -> list[str]:
@@ -60,6 +71,48 @@ def main() -> int:
             continue
         if "\N{EM DASH}" in text:
             errors.append(f"Em dash found: {relative_path}")
+        private_markers = (
+            "/" + "Users" + "/",
+            "will" + "." + "richardson",
+            "@" + "zendesk.com",
+        )
+        for marker in private_markers:
+            if marker in text:
+                errors.append(
+                    f"Private or machine-specific marker found in "
+                    f"{relative_path}: {marker}"
+                )
+
+    skills_root = ROOT / "06_Skills"
+    skill_directories = (
+        sorted(path for path in skills_root.iterdir() if path.is_dir())
+        if skills_root.is_dir()
+        else []
+    )
+    if len(skill_directories) != EXPECTED_SKILL_COUNT:
+        errors.append(
+            f"Expected {EXPECTED_SKILL_COUNT} skill folders, found {len(skill_directories)}"
+        )
+    for skill_directory in skill_directories:
+        skill_file = skill_directory / "SKILL.md"
+        agent_file = skill_directory / "agents" / "openai.yaml"
+        if not skill_file.is_file():
+            errors.append(f"Skill is missing SKILL.md: {skill_directory.name}")
+            continue
+        if not agent_file.is_file():
+            errors.append(f"Skill is missing agents/openai.yaml: {skill_directory.name}")
+        skill_text = skill_file.read_text(encoding="utf-8")
+        expected_name = f"name: {skill_directory.name}"
+        if expected_name not in skill_text.splitlines()[:6]:
+            errors.append(f"Skill name does not match folder: {skill_directory.name}")
+
+    skills_readme = skills_root / "README.md"
+    if skills_readme.is_file():
+        catalog_text = skills_readme.read_text(encoding="utf-8")
+        for skill_directory in skill_directories:
+            catalog_entry = f"`{skill_directory.name}`"
+            if catalog_entry not in catalog_text:
+                errors.append(f"Skill is missing from catalog: {skill_directory.name}")
 
     template = ROOT / "00_My_Workspace/MY_ASSIGNMENTS.template.md"
     if template.is_file():

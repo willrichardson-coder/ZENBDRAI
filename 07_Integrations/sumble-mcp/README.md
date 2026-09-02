@@ -18,7 +18,7 @@ export SUMBLE_API_KEY="your-key"
   "mcpServers": {
     "sumble-local": {
       "command": "python3",
-      "args": ["/Users/will.richardson/Desktop/ALL AI /07_Integrations/sumble-mcp/sumble_mcp_server.py"],
+      "args": ["/absolute/path/to/repository/07_Integrations/sumble-mcp/sumble_mcp_server.py"],
       "env": {
         "SUMBLE_API_KEY": "${SUMBLE_API_KEY}"
       }

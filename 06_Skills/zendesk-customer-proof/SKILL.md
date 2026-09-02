@@ -34,6 +34,6 @@ Never invent, round, combine, or generalize customer results. Do not send or upd
 
 ## Canonical references
 
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/zendesk_customer_stories.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/customer-proof-verification-standard.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/zendesk_official_source_map.md`
+- `02_Knowledge/zendesk_customer_stories.md`
+- `02_Knowledge/customer-proof-verification-standard.md`
+- `02_Knowledge/zendesk_official_source_map.md`

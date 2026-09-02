@@ -33,8 +33,8 @@ Do not silently rewrite a material claim without identifying the evidence issue.
 
 ## Canonical references
 
-- `/Users/will.richardson/Desktop/ALL AI /01_Rules/email-outreach-drafting-standard.md`
-- `/Users/will.richardson/Desktop/ALL AI /01_Rules/zendesk-account-to-outreach-rules.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/enterprise-bdr-operating-controls.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/customer-proof-verification-standard.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/competitive-claim-verification-standard.md`
+- `01_Rules/email-outreach-drafting-standard.md`
+- `01_Rules/zendesk-account-to-outreach-rules.md`
+- `02_Knowledge/enterprise-bdr-operating-controls.md`
+- `02_Knowledge/customer-proof-verification-standard.md`
+- `02_Knowledge/competitive-claim-verification-standard.md`

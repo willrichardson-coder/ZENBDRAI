@@ -30,7 +30,7 @@ Treat public Zendesk pages as changing evidence, not permanent truth. Do not use
 
 ## Canonical references
 
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/zendesk_official_product_facts.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/zendesk_official_source_map.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/zendesk_expertise_knowledge_base_v3.md`
-- `/Users/will.richardson/Desktop/ALL AI /05_Change_Log/CHANGELOG.md`
+- `02_Knowledge/zendesk_official_product_facts.md`
+- `02_Knowledge/zendesk_official_source_map.md`
+- `02_Knowledge/zendesk_expertise_knowledge_base_v3.md`
+- `05_Change_Log/CHANGELOG.md`
