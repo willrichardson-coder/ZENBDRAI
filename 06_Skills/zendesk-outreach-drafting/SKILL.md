@@ -41,7 +41,7 @@ The four emails are a writing architecture, not a mandatory cadence. The live mo
 
 ## Canonical references
 
-- `/Users/will.richardson/Desktop/ALL AI /01_Rules/email-outreach-drafting-standard.md`
-- `/Users/will.richardson/Desktop/ALL AI /01_Rules/zendesk-account-to-outreach-rules.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/voice-samples.md`
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/zendesk_customer_stories.md`
+- `01_Rules/email-outreach-drafting-standard.md`
+- `01_Rules/zendesk-account-to-outreach-rules.md`
+- `02_Knowledge/voice-samples.md`
+- `02_Knowledge/zendesk_customer_stories.md`

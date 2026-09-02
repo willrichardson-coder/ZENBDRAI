@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sumble"
+  short_description: "Research accounts with Sumble evidence"
+  default_prompt: "Use $sumble to research this account with Sumble and identify evidence that could support a Zendesk operating hypothesis."

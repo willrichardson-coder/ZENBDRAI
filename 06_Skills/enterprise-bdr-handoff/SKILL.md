@@ -41,6 +41,6 @@ Respect suppression, ownership, compliance, and explicit CRM approval requiremen
 
 ## Canonical references
 
-- `/Users/will.richardson/Desktop/ALL AI /02_Knowledge/enterprise-bdr-operating-controls.md`
-- `/Users/will.richardson/Desktop/ALL AI /01_Rules/zendesk-account-to-outreach-rules.md`
-- `/Users/will.richardson/Desktop/ALL AI /03_Templates/ACCOUNT_TO_OUTREACH_WORKSHEET.md`
+- `02_Knowledge/enterprise-bdr-operating-controls.md`
+- `01_Rules/zendesk-account-to-outreach-rules.md`
+- `03_Templates/ACCOUNT_TO_OUTREACH_WORKSHEET.md`

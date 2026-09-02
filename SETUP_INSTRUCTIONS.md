@@ -27,7 +27,17 @@ The primary structure is:
 - `06_Skills/`
 - `07_Integrations/`
 
-## 3. Create your assignments file
+## 3. Install the shared skills
+
+From the repository root, run:
+
+```bash
+python3 scripts/install_team_skills.py
+```
+
+This installs all 48 custom skills for the current Codex user. Restart Codex after installation. Each teammate must connect and authorize their own approved tools. The Sumble skill will not have Sumble access until that teammate connects the integration.
+
+## 4. Create your assignments file
 
 Copy `00_My_Workspace/MY_ASSIGNMENTS.template.md` and rename the copy `MY_ASSIGNMENTS.md`.
 
@@ -35,7 +45,7 @@ Replace the sample row with your assigned accounts and aligned AEs. Keep one row
 
 This is the only file a teammate needs to change. It is excluded from Git.
 
-## 4. Confirm the framework loaded
+## 5. Confirm the framework loaded
 
 Start a new task from the local project and ask:
 
@@ -45,7 +55,7 @@ The answer should identify `00_My_Workspace/MY_ASSIGNMENTS.md` and the protected
 
 If you use a ChatGPT Project instead of a local Codex project, upload the repository files and add `AGENTS.md` as project instructions. A ChatGPT Project does not edit or synchronize the local Git folder automatically.
 
-## 5. Run one test account
+## 6. Run one test account
 
 Choose one account from `MY_ASSIGNMENTS.md`. Ask the agent to:
 
@@ -59,7 +69,7 @@ Choose one account from `MY_ASSIGNMENTS.md`. Ask the agent to:
 
 Use `03_Templates/ACCOUNT_TO_OUTREACH_WORKSHEET.md` to inspect the output.
 
-## 6. Review the test output
+## 7. Review the test output
 
 Confirm that:
 
@@ -74,23 +84,23 @@ Confirm that:
 - The final email makes confirmation, redirection, or disqualification easy.
 - The copy has no unsupported claims, generic filler, banned phrases, emojis, or em dashes.
 
-## 7. Correct a failed test
+## 8. Correct a failed test
 
 If the output fails, ask the agent to re-read `AGENTS.md` and the two canonical rule files, then rerun the test. Do not rewrite shared rules to solve one weak draft.
 
-## 8. Work safely
+## 9. Work safely
 
 Review every draft before sending. Never treat a draft, account record, or research result as permission to contact someone.
 
 Do not connect automatic sending until mailbox, compliance, suppression, and approval controls have been confirmed.
 
-## 9. Keep account work local
+## 10. Keep account work local
 
 Keep account research, prospect details, and drafts under `08_Working_Accounts/`. That folder is excluded from Git.
 
 Do not place live account material inside rules, knowledge, examples, or skills.
 
-## 10. Improve the shared framework
+## 11. Improve the shared framework
 
 Propose changes that help the whole team through a branch and pull request. Follow `CONTRIBUTING.md`.
 

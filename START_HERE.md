@@ -5,9 +5,10 @@ This repository is a protected shared framework for AI-assisted Zendesk account 
 ## Start here
 
 1. Follow `SETUP_INSTRUCTIONS.md` once.
-2. Add your accounts and aligned AEs to `00_My_Workspace/MY_ASSIGNMENTS.md`.
-3. Ask the agent to research an assigned account.
-4. Review every draft before use.
+2. Install the 48 shared skills with `python3 scripts/install_team_skills.py`.
+3. Add your accounts and aligned AEs to `00_My_Workspace/MY_ASSIGNMENTS.md`.
+4. Ask the agent to research an assigned account.
+5. Review every draft before use.
 
 The agent reads `AGENTS.md` automatically in a local Codex project. That file points to the canonical rules, protects the shared core, and requires the account-first workflow.
 
@@ -32,7 +33,7 @@ Sender identity should come from the teammate's authenticated workspace context.
 - `01_Rules`: active drafting rules and the email standard
 - `02_Knowledge`: selected product, customer proof, competitive, ROI, discovery, and prospecting references
 - `03_Templates`: a simple account-to-outreach worksheet
-- `06_Skills`: reusable Codex skills built from the rules and knowledge
+- `06_Skills`: all 48 custom Codex skills, curated for team use
 - `00_My_Workspace`: the local account and AE assignment layer
 - `08_Working_Accounts`: ignored local research and drafts created during use
 

@@ -4,6 +4,11 @@ This file records changes to the repository's rules and the evidence behind them
 
 ## 2026-09-02
 
+- Exported all 48 custom Codex skills into the protected shared framework.
+- Added the Sumble skill and its conservative evidence boundaries.
+- Added a one-command installer for the complete team skill library.
+- Removed personal Mac paths from reusable skill references.
+- Expanded framework validation to enforce the 48-skill inventory, required skill files, matching skill names, and machine-specific data exclusions.
 - Added a root `AGENTS.md` that loads the canonical rules and protects the shared framework during normal account work.
 - Added one ignored teammate assignment file for account-to-AE mapping.
 - Added an ignored local workspace for account research and drafts.

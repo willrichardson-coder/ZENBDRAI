@@ -12,4 +12,5 @@ sumble_key=$(/usr/bin/security find-generic-password \
 export SUMBLE_API_KEY="$sumble_key"
 unset sumble_key
 
-exec /usr/bin/python3 "/Users/will.richardson/Desktop/ALL AI /07_Integrations/sumble-mcp/sumble_mcp_server.py"
+integration_dir=${0:A:h}
+exec /usr/bin/python3 "$integration_dir/sumble_mcp_server.py"
