@@ -12,9 +12,9 @@ Use when reviewing a draft, sequence, delegated output, or final outbound packag
 1. Count prospects, messages, subjects, and required sections.
 2. Confirm every prospect has one account signal and role connection.
 3. Check source links, evidence boundaries, proof approval, and current Zendesk claims.
-4. Confirm Email 1 has no Zendesk name, proof point, product pitch, or meeting ask.
+4. Confirm Email 1 uses the product-neutral default or is labeled as a deliberate vendor-present test. In a test, allow at most one short sentence naming Zendesk, one capability, or one matched proof point. Reject combined capability and proof, feature lists, product pitches, and meeting asks.
 5. Check the four email jobs remain distinct.
-6. Check subject length, body length, placeholders, banned phrases, generic language, punctuation, and em dashes.
+6. Check that every personal detail bridges to the operating problem, then check subject length, body length, placeholders, banned phrases, generic language, punctuation, and em dashes.
 7. Confirm claims do not exceed their sources.
 8. Confirm stop rules, opt-out handling, and explicit approval requirements are respected.
 

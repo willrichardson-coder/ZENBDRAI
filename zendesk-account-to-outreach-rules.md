@@ -51,6 +51,10 @@ Use permission-based language when it lowers resistance, such as “No pitch, ju
 
 Treat response patterns as hypotheses to test, not proof of causation. A response does not by itself prove that a subject line, tone, proof point, or timing caused the result.
 
+Use the two-person test: if the same line could be sent unchanged to two people, it is relevance, not one-to-one personalization. Relevance can still be useful. Do not label a segmented observation as personal research.
+
+Every personal or account detail must bridge to the operating problem. If it does not help explain why that problem may exist for this person, cut it.
+
 ## Phase 1: Account Research
 
 Start with the company, not the people.
@@ -147,12 +151,17 @@ Required structure:
 
 Email 1 rules:
 
-- Do not mention Zendesk
-- Do not include a customer proof point
+- Default to a product-neutral, proof-free Email 1
+- Treat Zendesk timing and proof timing as testable hypotheses, not universal laws
+- In a controlled vendor-present test, use at most one short sentence to name Zendesk, one relevant capability, or one matched proof point
+- Use the vendor-present test only when it clarifies the connection between the account signal and the operating problem
+- Do not combine a capability and proof point or list features in Email 1
 - Do not ask for a meeting
 - Do not use a product pitch
 - Do not state an unverified pain as fact
 - Keep the body under 100 words
+- Treat 100 words as a ceiling, not a target
+- When volume supports a useful test, compare 35 to 60 words with 70 to 95 words inside the same persona, offer, and channel
 - Keep the subject between two and five words
 - Use a subject under three words when possible
 - Use one clear idea
@@ -165,7 +174,7 @@ Email 1 rules:
 
 Signal, pressure, and curiosity.
 
-No vendor name. No proof point. No meeting ask.
+Default to no vendor name, no proof point, and no meeting ask. A controlled vendor-present test may use one short, relevant sentence under the Email 1 rules above.
 
 Email 1 should sound like a relevant business question, not a prospecting sequence. Lead with account context, state the likely consequence, and ask one diagnostic question.
 
@@ -206,7 +215,7 @@ Use:
 - Dunlop Sports for abandonment, answer time, and service levels
 - Lush for retail service, first-contact resolution, and cost reduction
 
-Proof points belong in Email 2 or Email 3, not Email 1.
+Proof points belong in Email 2 or Email 3 by default. A controlled Email 1 test may use one matched proof point when it clarifies relevance without turning the message into a pitch.
 
 ## Language Rules
 
@@ -244,7 +253,8 @@ Before delivering the emails, check:
 - Does each email fit the prospect’s actual role?
 - Is the opening specific?
 - Is the pressure plausible but not overstated?
-- Is Email 1 free of Zendesk and proof points?
+- Is Email 1 clearly using the default product-neutral approach or a deliberate vendor-present test?
+- If Email 1 names Zendesk or uses proof, is it limited to one short, relevant sentence with no feature list or meeting ask?
 - Is the CTA focused on a reply?
 - Does the message explain why the recipient should care before asking for time?
 - Is the reason for outreach based on account context, a verified relationship, relevant proof, or a clear prior interaction?

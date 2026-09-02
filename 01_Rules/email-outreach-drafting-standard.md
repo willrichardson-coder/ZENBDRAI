@@ -9,8 +9,16 @@ The broader cadence is adaptive and multichannel. Use three to five email opport
 Evidence boundary:
 
 - Treat short, relevant, non-promotional first touches and interest-based CTAs as evidence-backed defaults.
-- Treat account-first research, the four-email architecture, proof timing, and channel mix as operating standards or testable hypotheses unless a cited study directly supports the specific claim.
+- Treat account-first research and the four-email architecture as operating standards.
+- Treat first-touch length, Zendesk timing, proof timing, and channel mix as testable hypotheses unless a cited study directly supports the specific claim.
 - Measure positive replies, qualified conversations, meetings, opportunities, and unwanted-contact signals. Do not treat opens as a reliable success metric.
+
+Use this source-of-truth order:
+
+1. Measured outcomes from comparable accounts, personas, offers, and channels.
+2. The canonical rules in this file as the default operating standard.
+3. Published evidence with a visible method.
+4. Practitioner frameworks as ideas to test, not facts to copy.
 
 ## Purpose
 
@@ -52,6 +60,18 @@ Personalization is not repeating the prospect’s title or listing their career 
 
 Good personalization connects a specific company situation to the prospect’s likely operating responsibility.
 
+Use the two-person test: if the same line could be sent unchanged to two people, it is relevance, not one-to-one personalization. Relevance can still be useful. Do not label a segmented observation as personal research.
+
+Every personal or account detail must bridge to the operating problem. If it does not help explain why that problem may exist for this person, cut it.
+
+The first sentence must earn attention. Lead with a specific observation, business tension, or relevant idea that could only reasonably apply to this prospect and company. Use profile details as connective tissue, not as a summary of the prospect’s job.
+
+Strong first-touch logic:
+
+`specific observation -> company direction or tension -> role-relevant question`
+
+The message should feel personally considered and confident before it introduces Zendesk. Do not explain the sender’s research process or why the sender decided to mention Zendesk.
+
 Weak:
 
 > Your profile spans digital, operations, and transformation.
@@ -79,6 +99,8 @@ Zendesk may be relevant when the account needs to:
 
 Use only the capability that fits the prospect’s role and the account hypothesis. Do not list product features.
 
+Move directly from the prospect’s operating context to the Zendesk point of view. Never use meta-transitions such as “one reason I thought of Zendesk,” “I thought of Zendesk because,” or similar language that makes the email about the sender’s reasoning.
+
 ## Sequence Structure
 
 Write four canonical emails per prospect. Each email must stand alone if the prospect never read the prior message. The live cadence may use fewer or more email opportunities when account context, engagement, or stop rules justify it.
@@ -91,7 +113,9 @@ Purpose:
 - Connect it to a plausible operating consequence.
 - Ask one focused question.
 
-Do not over-explain Zendesk in the first email. The message should create relevance without sounding like a product pitch.
+The default Email 1 is product-neutral and proof-free. This is a default, not a universal claim about performance.
+
+When a controlled test calls for a vendor-present Email 1, use at most one short sentence to name Zendesk, one relevant capability, or one matched proof point. Include it only when it clarifies the connection between the account signal and the operating problem. Do not combine a capability and proof point, list features, or ask for a meeting.
 
 ### Email 2: Operational implication
 
@@ -134,6 +158,7 @@ The sender should sound like a thoughtful operator who understands the prospect�
 Use:
 
 - Specific observations.
+- Attention-grabbing first sentences grounded in the prospect and company.
 - Plain language.
 - Short paragraphs.
 - One idea per email.
@@ -141,6 +166,7 @@ Use:
 - Calm confidence.
 - Genuine curiosity.
 - Commercial relevance without a hard pitch.
+- Direct transitions from context to point of view.
 
 Avoid:
 
@@ -152,6 +178,9 @@ Avoid:
 - Unproven claims.
 - Generic compliments.
 - Artificial urgency.
+- Meta-commentary about the sender’s research or drafting logic.
+- Weak transitions that explain why Zendesk was mentioned.
+- Hedging that makes a relevant point sound tentative.
 
 ## Banned Phrases and Patterns
 
@@ -172,6 +201,8 @@ Never use:
 Do not use a generic reference to the prospect’s profile as the main reason for writing.
 
 Do not use “stood out,” “caught my attention,” or similar praise unless followed immediately by a specific company or operating implication.
+
+Do not use phrases such as “one reason I thought of Zendesk,” “I thought of Zendesk because,” or “the reason I’m reaching out is.” Move directly to the relevant observation or capability.
 
 Do not ask for a meeting before earning the right to ask for one.
 
@@ -198,6 +229,8 @@ If ownership matters, first ask about the operating problem, then use ownership 
 
 Every word must earn its place.
 
+Keep Email 1 under 100 words. Treat that as a ceiling, not a target. When volume supports a useful test, compare 35 to 60 words with 70 to 95 words inside the same persona, offer, and channel. Do not compare length results across unlike audiences and call the difference causal.
+
 Before finalizing, remove:
 
 - Repeated context.
@@ -208,6 +241,8 @@ Before finalizing, remove:
 - Claims that are not supported by the source material.
 
 Prefer one strong observation and one strong question over three weaker observations.
+
+The final copy should sound like a thoughtful operator wrote it for one person. If a sentence explains the sender’s process, weakens the claim, or delays the relevance, remove it.
 
 ## Delegated Drafting Standard
 
@@ -275,17 +310,23 @@ Will
 Before delivery, verify every prospect sequence:
 
 - Does Email 1 contain company context, not only profile context?
+- Does the first sentence create immediate relevance and attention?
+- Does every personal detail connect directly to the operating problem?
 - Is there a credible change, pressure, or operating hypothesis?
 - Is the prospect’s role relevant to the question?
 - Does each email add new information?
 - Can each email stand alone?
 - Is the Zendesk connection clear by Email 3 at the latest?
+- Is Email 1 clearly using the default product-neutral approach or a deliberate vendor-present test?
+- If Email 1 names Zendesk or uses proof, is it limited to one short, relevant sentence with no feature list or meeting ask?
 - Is Zendesk presented as a possible fit, not an assumed answer?
 - Does each email contain one primary question?
 - Does the question invite insight rather than merely route to another person?
 - Are all claims supported or clearly framed as hypotheses?
 - Are there zero banned phrases?
 - Is there no BDR filler or jargon?
+- Are there no meta-transitions or explanations of the sender’s reasoning?
+- Does the email use confident, direct language throughout?
 - Are subjects specific, readable, and correctly capitalized?
 - Is the sequence ordered correctly under the right prospect?
 - Does the final email make disqualification easy?

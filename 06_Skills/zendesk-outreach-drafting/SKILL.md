@@ -20,7 +20,7 @@ Use only after account research and prospect-to-signal matching are complete.
 
 Draft four distinct email jobs:
 
-1. Account hypothesis: signal, plausible pressure, diagnostic question. No Zendesk, proof, or meeting ask.
+1. Account hypothesis: signal, plausible pressure, diagnostic question. Default to no Zendesk, proof, or meeting ask. When the task calls for a controlled vendor-present test, use at most one short sentence to name Zendesk, one capability, or one matched proof point. Do not combine capability and proof or ask for a meeting.
 2. Operational implication: new consequence or one matched proof point. Keep the CTA soft.
 3. Zendesk point of view: name Zendesk only when the hypothesis still holds. Connect one capability to the issue.
 4. Direct qualification: make it easy to confirm, redirect, disqualify, or state that the issue is not important.
@@ -30,6 +30,8 @@ The four emails are a writing architecture, not a mandatory cadence. The live mo
 ## Writing constraints
 
 - Under 100 words for Email 1
+- Treat 100 words as a ceiling; test shorter bands only within comparable personas, offers, and channels
+- Connect every personal detail to the operating problem; cut decorative personalization
 - Subject generally two to five words
 - One idea and one useful question per message
 - Evidence before inference
