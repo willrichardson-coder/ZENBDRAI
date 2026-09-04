@@ -40,6 +40,14 @@ Use the structured paths above as the canonical files. The root-level `zendesk-a
 
 The historical archive and legacy ZIP have been moved to the separate Desktop folder `ALL AI - Historical`. Do not load that folder into an LLM as active context.
 
+## Canonical release model
+
+`main` in this repository is the only canonical source for the shared framework. `origin/main` is the backed-up, teammate-distribution copy.
+
+The Google Drive `Shareable AI` folder may contain a deliberate published snapshot of `main`. It never overrides `main`. The older Google Drive `bdr-outbound` material is reference-only archive content, not active account research, outreach evidence, or a source for bulk imports.
+
+For shared-framework changes: update this repository, run the framework checks, commit and push `main`, then publish a new Drive snapshot only when a teammate release is needed. Keep each teammate's assignments, account research, contacts, drafts, CSV exports, local dashboard database, and credentials local.
+
 ## What this package does not contain
 
 The shared framework excludes live assignment files, private prospect records, activity logs, credentials, local tool settings, legacy archives, and generated account work. Labeled examples and reusable integration source may remain in the repository, but they are not live account evidence or instructions.

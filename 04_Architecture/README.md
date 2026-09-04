@@ -9,6 +9,12 @@ The operating model has two layers:
 
 The local teammate layer is excluded from Git. This keeps account changes from altering the shared framework.
 
+## Canonical release path
+
+`main` is the canonical shared-framework history. `origin/main` is the durable backup and controlled distribution point. Google Drive `Shareable AI` copies are optional release snapshots made from `main`; they never become an upstream source.
+
+The older Google Drive `bdr-outbound` tree is an archive. Its account templates, status fields, and unsourced research do not enter the active workflow or dashboard until they are re-researched, matched to an exact CRM ID, and saved with dated sources.
+
 ## Responsibilities
 
 - `01_Rules/` governs account research, prospect selection, message drafting, and final QA.
@@ -28,9 +34,11 @@ Keep private prospect records, contacts, CRM exports, logs, local databases, cre
 
 ## Operating flow
 
-1. Research the account.
-2. Separate verified facts, inferences, and unknowns.
-3. Reduce the account to three to five useful signals.
-4. Select prospects whose responsibilities connect to one signal.
-5. Draft one clear angle per prospect.
-6. Audit the final sequence before using it.
+1. Update the protected shared core in this repository when a framework change is approved.
+2. Validate, commit, and push `main` before publishing a teammate release.
+3. Research the account.
+4. Separate verified facts, inferences, and unknowns.
+5. Reduce the account to three to five useful signals.
+6. Select prospects whose responsibilities connect to one signal.
+7. Draft one clear angle per prospect.
+8. Audit the final sequence before using it.
