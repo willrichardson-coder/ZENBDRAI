@@ -2,6 +2,10 @@
 
 This file records changes to the repository's rules and the evidence behind them.
 
+## 2026-09-09
+
+- Added a Forethought positioning reference from the supplied resource-center materials, separating product themes, internal proof claims, future capabilities, competitive hypotheses, and call-process instructions. Current primary-source verification remains required before external use.
+
 ## 2026-09-04
 
 - Marked detailed competitive intelligence as reference context because its time-sensitive claims require primary-source verification before external use.

@@ -8,6 +8,7 @@
 - [Customer Proof Verification Standard](customer-proof-verification-standard.md) - Approval states and promotion workflow for customer results
 - [Competitive Intelligence](zendesk_competitive_intel.md) - Salesforce, NICE, and ServiceNow positioning
 - [Competitive Claim Verification Standard](competitive-claim-verification-standard.md) - Evidence states and safe competitive use
+- [Forethought Positioning Reference](forethought-positioning-reference.md) - Enablement context, use cases, proof claims, and verification boundaries
 
 ## Sales & Outreach
 - [ROI / Business Case](roi-business-case.md) - Hypotheses and validation frames
