@@ -2,6 +2,20 @@
 
 This file records changes to the repository's rules and the evidence behind them.
 
+## 2026-09-16
+
+- Added automatic skill-routing guidance to `AGENTS.md`: classify every prompt, load matching skill instructions before action, use the smallest applicable skill set, preserve user-instruction precedence, and run a final rules audit.
+- Kept local account CSV exports and generated integration virtual environments outside the shared GitHub backup.
+
+## 2026-09-09
+
+- Added a Forethought positioning reference from the supplied resource-center materials, separating product themes, internal proof claims, future capabilities, competitive hypotheses, and call-process instructions. Current primary-source verification remains required before external use.
+
+## 2026-09-04
+
+- Marked detailed competitive intelligence as reference context because its time-sensitive claims require primary-source verification before external use.
+- Defined `main` and `origin/main` as the canonical shared-framework release path, with Drive as a downstream snapshot and the legacy `bdr-outbound` tree as reference-only archive material.
+
 ## 2026-09-02
 
 - Added a root `AGENTS.md` that loads the canonical rules and protects the shared framework during normal account work.

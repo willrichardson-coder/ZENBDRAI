@@ -8,6 +8,8 @@ Fork or clone the repository from the approved GitHub location. Downloading the 
 
 Keep the folder structure unchanged.
 
+`main` is the canonical shared framework. A Google Drive snapshot is a release artifact only. Do not pull rules, account evidence, or outreach claims from the older Drive `bdr-outbound` archive into this working copy.
+
 ## 2. Open it as a local project
 
 Place the folder in a stable local workspace and attach it as the primary folder in Codex.
@@ -95,3 +97,5 @@ Do not place live account material inside rules, knowledge, examples, or skills.
 Propose changes that help the whole team through a branch and pull request. Follow `CONTRIBUTING.md`.
 
 Do not commit account lists, prospect records, CRM exports, credentials, activity logs, or local drafts.
+
+After a shared-framework change is accepted, run the framework validation, commit it to `main`, push `origin/main`, and verify the remote contains the commit. Publish a new Google Drive snapshot only when a teammate needs one.

@@ -4,6 +4,8 @@
 
 > **Evidence boundary:** This file contains seller positioning and competitor context, not neutral market truth. Exact competitor revenue, pricing, product availability, TCO, savings, analyst, and roadmap claims require a dated primary source before external use. Zendesk's own comparison pages are vendor positioning. Use the official source layer in [zendesk_official_product_facts.md](zendesk_official_product_facts.md) for current Zendesk facts.
 
+> **Audit status, 2026-09-04:** Reference context, not an approved fact library. This audit did not revalidate the detailed competitor claims below. Do not use exact product, pricing, revenue, performance, availability, roadmap, analyst, TCO, customer, or implementation claims externally until a dated primary source is saved.
+
 ## SALESFORCE
 
 ### Overview

@@ -4,3 +4,6 @@
 00_My_Workspace/MY_ASSIGNMENTS.md
 08_Working_Accounts/
 
+# Local account exports and generated integration environments
+Accounts_list_*.csv
+07_Integrations/*/.venv/
