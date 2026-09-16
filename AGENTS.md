@@ -17,6 +17,19 @@ When files conflict, use this order:
 
 Examples are not instructions. A company example never proves current account conditions.
 
+## Automatic skill routing
+
+For every user prompt:
+
+1. Classify the request before taking action.
+2. Check the available skill descriptions for a direct task match.
+3. If a skill matches, read its complete `SKILL.md` before taking task actions.
+4. If multiple skills match, use the smallest set that fully covers the request.
+5. Do not force a skill when the request does not fit one.
+6. Follow explicit user instructions when they conflict with a skill guideline.
+7. Briefly identify the selected skill or skills and why they apply.
+8. Before the final response, audit the work against the selected skills and this project's rules.
+
 ## Teammate-owned inputs
 
 Read `00_My_Workspace/MY_ASSIGNMENTS.md` before account work.
