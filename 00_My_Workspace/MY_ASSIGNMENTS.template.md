@@ -1,4 +1,6 @@
-# My Account and AE Assignments
+# My Account and AE Assignments (Optional)
+
+Use this file for persistent account notes or overrides. It is not required when an account is supplied directly in the prompt. The local AE CSV exports are the first validation source for prompted accounts.
 
 Replace the sample rows. Keep one row per account. Use the exact CRM Account ID when available.
 
@@ -12,4 +14,3 @@ Replace the sample rows. Keep one row per account. Use the exact CRM Account ID 
 - Do not merge accounts by name or website when CRM IDs conflict.
 - Confirm any ownership conflict with the aligned AE before outreach.
 - Do not place prospect contact details, credentials, or activity history in this file.
-

@@ -32,8 +32,14 @@ The four emails are a writing architecture, not a mandatory cadence. The live mo
 - Under 100 words for Email 1
 - Treat 100 words as a ceiling; test shorter bands only within comparable personas, offers, and channels
 - Connect every personal detail to the operating problem; cut decorative personalization
+- Use a specific person-level observation when it sharpens the business point
+- Use natural first-person language when it adds credibility or warmth
+- Do not tell the recipient what their job is or use role-description language
 - Subject generally two to five words
 - One idea and one useful question per message
+- Emails 2 through 4 must stand alone if read without the earlier emails
+- Every follow-up must add a new implication, not merely repeat the first touch
+- Email 3 must offer a concrete support path or fix tied to the business issue
 - Evidence before inference
 - Human, direct, low-pressure voice
 - No generic follow-up language, filler, emojis, or em dashes

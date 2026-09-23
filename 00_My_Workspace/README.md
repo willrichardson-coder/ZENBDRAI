@@ -1,15 +1,15 @@
 # My Workspace
 
-This is the only folder each teammate needs to configure.
+This is the optional local configuration folder for teammate-specific account notes.
 
 ## Setup
 
-1. Copy `MY_ASSIGNMENTS.template.md` in this folder.
+1. Copy `MY_ASSIGNMENTS.template.md` in this folder if you want a persistent account-to-AE reference.
 2. Rename the copy to `MY_ASSIGNMENTS.md`.
-3. Replace the sample rows with your assigned accounts and aligned AEs.
+3. Replace the sample rows with your accounts and aligned AEs.
 4. Use `UNKNOWN` when a required value is not available. Do not guess.
 
-`MY_ASSIGNMENTS.md` is excluded from Git. Your account list remains local and the shared framework stays unchanged.
+`MY_ASSIGNMENTS.md` is excluded from Git. Your account list remains local and the shared framework stays unchanged. It is not required when you give an account directly in the prompt.
 
 ## Required fields
 
@@ -28,5 +28,4 @@ Ask:
 
 > Research [Account] from my assignments, build the signal map, recommend the right prospects, and draft outreach only after the account case is clear.
 
-The agent should confirm the account and AE before continuing.
-
+The agent should exact-match the prompted account against the available AE CSV exports and use `Account Owner` to identify the aligned AE when present. A missing match is `UNVERIFIED`, not a blocker to account research. Conflicting owners require resolution before outreach execution.
