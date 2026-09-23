@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use this repository to research assigned accounts and draft reviewable Zendesk outreach. The shared framework stays consistent across the team. Each teammate changes only their account-to-AE assignments.
+Use this repository to research accounts the teammate explicitly provides and draft reviewable Zendesk outreach. The shared framework stays consistent across the team. Each teammate may keep account-to-AE assignments as a local reference.
 
 ## Instruction order
 
@@ -32,13 +32,17 @@ For every user prompt:
 
 ## Teammate-owned inputs
 
-Read `00_My_Workspace/MY_ASSIGNMENTS.md` before account work.
+Read `00_My_Workspace/MY_ASSIGNMENTS.md` when it exists, but do not require it for an account named explicitly by the user.
 
-- Treat it as the source for the teammate's assigned accounts and aligned AEs.
+- For an account named explicitly by the user, treat that account as the working scope. Validate it against every available local AE CSV export before outreach research. Prefer an exact, case-insensitive `Account Name` match.
+- Use the matching CSV row's `Account Owner` to identify the aligned AE when present. Record the CSV filename and research date as evidence.
+- If the account matches multiple CSV rows with conflicting owners, stop and ask the user to resolve ownership. Do not merge similar names.
+- If the account is absent from the CSV exports, continue account research with ownership marked `UNVERIFIED`; do not infer territory, ownership, customer status, opportunity status, or permission to contact.
+- If `MY_ASSIGNMENTS.md` conflicts with an exact CSV match or an explicit user statement, flag the conflict and use neither source to infer permission to send.
 - Never treat `MY_ASSIGNMENTS.template.md` placeholders as real accounts.
 - Match accounts by exact CRM Account ID when supplied. Do not merge similar names.
-- If an account or AE is missing or ambiguous, stop and ask for the missing assignment.
-- Do not infer territory, ownership, customer status, opportunity status, or permission to contact.
+- Ask for an assignment only when the user has not supplied an account, or when ownership is genuinely conflicting and cannot be resolved from the supplied context.
+- Do not infer territory, customer status, opportunity status, or permission to contact.
 
 For normal setup and account work, edit only:
 
@@ -69,7 +73,7 @@ Do not change shared core during account research or outreach work. Change it on
 
 ## Required workflow
 
-1. Confirm the account and aligned AE from `MY_ASSIGNMENTS.md`.
+1. Confirm the account from the user's prompt or `MY_ASSIGNMENTS.md`; for a prompted account, validate against the local AE CSV exports.
 2. Research the account before selecting prospects.
 3. Separate verified facts, reasonable inferences, and unknowns.
 4. Build three to five useful account signals.

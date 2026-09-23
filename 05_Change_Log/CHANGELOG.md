@@ -2,6 +2,18 @@
 
 This file records changes to the repository's rules and the evidence behind them.
 
+## 2026-09-18
+
+- Updated the canonical outreach rules and drafting skills to require human, person-specific first emails; natural first-person language where useful; no language that explains the recipient's job back to them; standalone Emails 2 through 4; new business implications in each follow-up; and a concrete Zendesk support path tied to the identified issue.
+
+## 2026-09-18
+
+- Added a source-linked Sunday timing-refresh layer to the local Account Research Hub. It records a complete weekly result for each researched account without changing the account brief or its 90-day freshness, and keeps outreach implications distinct from permission to contact.
+
+## 2026-09-17
+
+- Removed the blocking dependency on `MY_ASSIGNMENTS.md` for explicitly supplied accounts. Prompted accounts are validated against the local AE CSV exports, with `Account Owner` used for aligned-AE identification, conflicting owners requiring resolution, and missing matches labeled `UNVERIFIED`.
+
 ## 2026-09-16
 
 - Added automatic skill-routing guidance to `AGENTS.md`: classify every prompt, load matching skill instructions before action, use the smallest applicable skill set, preserve user-instruction precedence, and run a final rules audit.
