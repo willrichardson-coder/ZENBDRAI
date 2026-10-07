@@ -1,5 +1,11 @@
 # Change Log
 
+## 2026-10-07
+
+- Added Oracle competitor guidance sourced from the internal Zendesk Oracle battle card. Labeled unverified comparisons, converted them to discovery prompts, retained fit and displacement guardrails, and flagged internal-only proof for current primary-source validation before external use.
+- Extended competitive intelligence from the updated Battle cards Google Doc with Freshdesk, Genesys, and Five9 discovery guidance. Updated the knowledge index to reflect all covered tabs; source claims remain unverified pending current primary evidence.
+- Updated BDR orchestration, account-research, prospecting, outreach, and Sumble guidance to treat exact-account Sumble technology matches as verified observed installed technology, route them to the matching competitor section, and use the context in writing when relevant without inferring scope, dissatisfaction, or buying intent.
+
 This file records changes to the repository's rules and the evidence behind them.
 
 ## 2026-09-18
@@ -65,3 +71,12 @@ This file records changes to the repository's rules and the evidence behind them
 - Added enterprise BDR operating controls for compliance review, CRM fields, suppression, explicit send approval, AE handoff, and outcome measurement.
 - Moved the historical archive and legacy ZIP to the separate Desktop folder `ALL AI - Historical` so the active folder contains current operating material only.
 - Created and validated six reusable Codex skills, then packaged their source definitions under `06_Skills/`.
+
+## 2026-09-25
+
+- Updated outreach standards to require direct, speakable conversation rather than profile-based account summaries.
+- Added natural pronoun guidance, a read-aloud phone test, a high-volume inbox cut-through standard, and a distinctive-opening check.
+- Clarified that suspected pain must be validated through a focused question and that competitor underperformance requires comparable evidence.
+- Synchronized the canonical rules, local drafting and QA skills, AGENTS.md writing controls, and voice guidance.
+- Replaced the absolute under-100-word Email 1 ceiling with a 50 to 100-word default range and a justified extension to 140 words when verified context is necessary; preserved one idea, one question, and controlled length testing.
+- Updated subject-line rules to reflect the threaded outreach workflow: use one first-touch subject across the email thread, include the prospect's first name, pair it with concrete account or role relevance, and allow up to seven words when needed for specificity.

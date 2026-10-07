@@ -75,11 +75,13 @@ Do not change shared core during account research or outreach work. Change it on
 
 1. Confirm the account from the user's prompt or `MY_ASSIGNMENTS.md`; for a prompted account, validate against the local AE CSV exports.
 2. Research the account before selecting prospects.
-3. Separate verified facts, reasonable inferences, and unknowns.
-4. Build three to five useful account signals.
-5. Map each prospect to one primary signal.
-6. Draft according to the two canonical rule files.
-7. Audit every final draft before delivery.
+3. When Sumble returns a technology match, first confirm its organization maps to the exact CRM account, using the authoritative account identity and domain and resolving any parent, brand, or subsidiary ambiguity. Record the technology and observation date as verified account-level installed-technology evidence. Match it to the corresponding vendor section in `02_Knowledge/zendesk_competitive_intel.md` and carry relevant discovery context into the account signals and writing when it fits the recipient and approved play.
+4. Keep the evidence boundary clear: a Sumble technology match verifies the detected technology at the matched account. Do not infer business-unit scope, current usage intensity, dissatisfaction, a change initiative, buying intent, or replacement plans from the match alone. Battle-card assertions remain subject to `02_Knowledge/competitive-claim-verification-standard.md`.
+5. Separate verified facts, reasonable inferences, and unknowns.
+6. Build three to five useful account signals.
+7. Map each prospect to one primary signal.
+8. Draft according to the two canonical rule files.
+9. Audit every final draft before delivery.
 
 Do not send messages, update CRM, change ownership, or contact anyone without explicit user approval.
 
@@ -89,7 +91,13 @@ Do not send messages, update CRM, change ownership, or contact anyone without ex
 - Make every word earn its place.
 - Remove BDR filler and sales jargon.
 - Use one clear idea and one useful question per email.
+- Write to the recipient directly, not about them as a profile. Use natural first- and second-person language where it makes the conversation real.
+- Read every draft aloud as if it were the opening of a phone call. Revise anything that sounds like a research brief or would make no sense spoken directly to the recipient.
+- Make the opening distinctive enough that it would be difficult to reuse unchanged for another company or person.
 - Keep facts separate from assumptions.
+- When an exact-account Sumble technology match is relevant to the recipient and message, use it as a verified technology observation and consult the matching competitor guidance. Keep the copy diagnostic and concise; do not force the technology into the message or turn it into an unsupported claim about pain, scope, or buying intent.
 - Do not claim live pain from public information.
+- Validate possible pain through a focused question. Do not exploit, manufacture, or overstate it.
+- Do not claim the account is worse than competitors without comparable evidence.
 - If a better approach exists, explain it plainly.
 - Before final delivery, audit the work against the canonical rules.

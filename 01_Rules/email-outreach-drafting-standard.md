@@ -86,6 +86,30 @@ Stronger:
 
 The prospect should feel that the email could only reasonably have been written for their company and role.
 
+### Direct-conversation standard
+
+Write to the recipient as a person, not about the recipient as a profile. Read the email aloud as if it were the opening of a phone call. If the words would sound unnatural coming from the sender or would make no sense spoken directly to the recipient, revise them.
+
+Use pronouns as evidence of direct address, not as a mechanical requirement:
+
+- Use “I” when the sender needs to own an observation, judgment, or uncertainty.
+- Use “you” or “your” when connecting the business tension to what the recipient may see, decide, or influence.
+- Use “we” sparingly. Do not use it to manufacture familiarity or imply shared knowledge.
+
+A draft containing neither a natural sender perspective nor direct recipient language is a QA warning. It often means the copy is still an account brief, profile summary, or campaign template.
+
+### Cut-through standard
+
+The recipient likely receives many similar messages. Standout outreach does not rely on cleverness, flattery, urgency, or a longer explanation. It uses one unusual but relevant observation, one specific operating tension, and one question that is easy to answer.
+
+The opening should be difficult to reuse unchanged for another company or person. Use the person-level detail only if it changes the business interpretation. A title, tenure, or career summary is not enough.
+
+### Pain and comparison standard
+
+Do not exploit or assert suspected pain. Use public evidence to form a testable hypothesis about an operating consequence, then give the recipient a clean way to confirm, correct, redirect, or dismiss it.
+
+Do not say or imply that the account is underperforming competitors without comparable evidence for the same metric, time period, scope, and source quality. If that evidence does not exist, ask where the account may be experiencing delay, rework, inconsistency, or limited visibility instead.
+
 ## Zendesk Relevance
 
 Do not force Zendesk into every first email. The commercial connection must become clear across the sequence.
@@ -248,7 +272,7 @@ If ownership matters, first ask about the operating problem, then use ownership 
 
 Every word must earn its place.
 
-Keep Email 1 under 100 words. Treat that as a ceiling, not a target. When volume supports a useful test, compare 35 to 60 words with 70 to 95 words inside the same persona, offer, and channel. Do not compare length results across unlike audiences and call the difference causal.
+Aim for 50 to 100 words in Email 1. Do not remove decision-useful, verified context solely to meet the word range. When additional context is necessary to make the observation credible, Email 1 may extend to 140 words, but it must retain one clear idea and one question. When volume supports a useful test, compare 35 to 60 words with 70 to 95 words, and when justified 100 to 140 words, inside the same persona, offer, and channel. Do not compare length results across unlike audiences and call the difference causal.
 
 Before finalizing, remove:
 
@@ -280,9 +304,17 @@ Delegation is for parallel drafting. It does not replace the final editorial pas
 
 Use this structure as a starting point, not as copy to repeat mechanically.
 
+### Thread subject
+
+Use one subject for the initial email and all later emails in the thread. Include the prospect's first name and one specific account signal, operating tension, or role-relevant question. The subject should remain credible as the conversation develops.
+
+Default structure: `[First name], [specific business relevance]`
+
+Keep the subject between two and five words by default. Allow up to seven words when the added words create real recipient relevance. Do not use the name as a substitute for personalization, and do not write separate subjects for Emails 2 through 4.
+
 ### Email 1
 
-Subject: [Company change or operating issue]
+Subject: [First name], [specific business relevance]
 
 [First name],
 
@@ -293,7 +325,7 @@ Best,
 
 ### Email 2
 
-Subject: [Operational implication]
+Subject: [same thread subject as Email 1]
 
 [First name],
 
@@ -304,7 +336,7 @@ Best,
 
 ### Email 3
 
-Subject: [Zendesk-relevant capability]
+Subject: [same thread subject as Email 1]
 
 [First name],
 
@@ -315,7 +347,7 @@ Best,
 
 ### Email 4
 
-Subject: [Direct qualification question]
+Subject: [same thread subject as Email 1]
 
 [First name],
 

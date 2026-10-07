@@ -6,6 +6,74 @@
 
 > **Audit status, 2026-09-04:** Reference context, not an approved fact library. This audit did not revalidate the detailed competitor claims below. Do not use exact product, pricing, revenue, performance, availability, roadmap, analyst, TCO, customer, or implementation claims externally until a dated primary source is saved.
 
+## ORACLE
+
+> **Source status (2026-10-07):** Based on the internal Zendesk [Oracle Battle card](https://docs.google.com/document/d/1Qtss3l62tadVUMILznx-Zs35kIezEbuRDrmiFtNrLMU/edit). The source document date is not stated, and its product, pricing, implementation, staffing, roadmap, integration, and customer claims have not been revalidated. Treat them as seller hypotheses, not market facts. Verify each material comparison against current primary sources for the exact Oracle product, edition, version, deployment, and use case before external use.
+
+### Product and deal framing
+
+The battle card distinguishes Oracle RightNow / B2C Service from Fusion Service and describes different customer-service histories, architectures, and use cases. Ask which exact product and components are proposed, what is already deployed, and what Oracle has committed to support. Do not assume a migration path, product roadmap, or feature gap.
+
+Oracle may be attractive when a buyer values its broader enterprise portfolio, Fusion integration, extensive configuration, advanced knowledge needs, or industry-specific workflows. Treat these as fit questions to validate against the actual requirements, not universal product strengths.
+
+### Discovery angles
+
+- **Product and scope:** Which Oracle service product, edition, and deployment are in the proposal? What customer and employee workflows are in scope?
+- **Evaluation:** Can both vendors demonstrate the same representative workflow, channels, reporting, knowledge, and exception paths using the buyer's requirements?
+- **Administration:** Who owns routine changes, permissions, reporting, and releases? Which changes require specialist or partner support?
+- **Integration and migration:** Which systems must connect, what work is standard versus custom, and what data or workflows must move? Ask for an agreed migration plan and responsibility matrix.
+- **Knowledge and self-service:** Which knowledge product and entitlements are included? How are sessions, usage, migration, and ongoing costs measured?
+- **Commercial model:** Compare the full written proposal over the same term, including licenses, usage, services, support, integrations, and renewal assumptions.
+- **Proof and risk:** Request current references with a comparable use case and validate security, availability, compliance, and service commitments with the appropriate specialists.
+
+### Positioning guardrails
+
+Lead with the buyer's required outcome and a side-by-side proof plan. Zendesk's potential fit should be demonstrated through the buyer's own service workflows, administration needs, integration scope, and commercial model. Keep the motion additive when Oracle remains the system of record or a broader suite is preferred. Discuss replacement only when the buyer confirms a service-layer problem and a credible transition case.
+
+Do not repeat the battle card's exact feature-parity percentages, user or volume thresholds, licensing discounts, session charges, implementation durations or rates, staffing assumptions, layoff claims, marketplace counts, product-availability claims, customer metrics, or customer stories externally without current, attributable primary evidence and approval for the intended use. Internal-only stories in the source remain internal-only unless separately cleared.
+
+## FRESHDESK / FRESHWORKS
+
+> **Source status (2026-10-07):** Based on the internal Zendesk [Battle cards](https://docs.google.com/document/d/1Qtss3l62tadVUMILznx-Zs35kIezEbuRDrmiFtNrLMU/edit) document, tab “Freshdesk.” The tab has no source date and its product, segment, pricing, growth, implementation, AI, integration, and customer claims have not been revalidated. Treat its competitive assertions as internal hypotheses, not market facts.
+
+### Discovery angles
+
+- **Product and scope:** Is the evaluation about Freshdesk, Freshdesk Omni, Freshservice, or another Freshworks product? Which channels and teams are in scope?
+- **Growth and operating fit:** What must the service operation support as brands, teams, workflows, or volumes change? Where do current configuration or reporting needs take time?
+- **AI and automation:** Which customer requests should AI resolve, assist, or route? How will the team measure accuracy, containment, handoff quality, and total cost?
+- **Commercial comparison:** Compare written proposals over the same term, including included channels, usage, add-ons, services, and renewal assumptions.
+- **Proof:** Have both vendors demonstrate the same real workflow and exceptions with the people who will administer and use it.
+
+Do not repeat the source's price, feature-parity, scalability, AI, implementation, investment-priority, customer metric, or customer-story claims externally without current primary evidence and approval. Avoid “fast to fail” or other disparaging language. Acknowledge the buyer's reasons for considering Freshworks and validate any gap against their requirements.
+
+## GENESYS
+
+> **Source status (2026-10-07):** Based on the internal Zendesk [Battle cards](https://docs.google.com/document/d/1Qtss3l62tadVUMILznx-Zs35kIezEbuRDrmiFtNrLMU/edit) document, tab “Genesys.” The tab has no source date and its product, end-of-life, migration, market, roadmap, feature, customer, and proof claims have not been revalidated. Treat its competitive assertions as internal hypotheses, not market facts.
+
+### Discovery angles
+
+- **Current environment:** Which Genesys products, versions, channels, and integrations are deployed? What is working well?
+- **Decision timing:** Is there an actual contract, support, or migration decision? Confirm dates and commitments from current vendor documentation.
+- **Workflow fit:** Where must contact-center interactions connect to persistent case history, knowledge, asynchronous work, or other service channels?
+- **Migration and risk:** What data, integrations, operating changes, and service levels would a transition require? Compare a documented migration plan before discussing replacement.
+- **Proof:** Demonstrate the buyer's highest-volume and exception workflows with agreed measures for routing, continuity, administration, and agent experience.
+
+Do not repeat the source's end-of-life dates, migration offers, analyst rankings, customer counts, voice comparisons, roadmap statements, or customer stories externally without current primary evidence and approval. Keep the discussion additive when Genesys remains the required contact-center layer.
+
+## FIVE9
+
+> **Source status (2026-10-07):** Based on the internal Zendesk [Battle cards](https://docs.google.com/document/d/1Qtss3l62tadVUMILznx-Zs35kIezEbuRDrmiFtNrLMU/edit) document, tab “Tab 7” (Five9). The tab has no source date and its product, market, revenue, AI, customer, service, and comparative claims have not been revalidated. Treat its competitive assertions as internal hypotheses, not market facts.
+
+### Discovery angles
+
+- **Scope:** Which Five9 products and capabilities are in the proposed or deployed solution, including voice, digital, workforce, analytics, and AI?
+- **AI evaluation:** Which use cases matter, which models and controls are required, and how will the buyer evaluate accuracy, escalation, governance, and cost?
+- **Service continuity:** How should voice interactions connect with customer history, cases, knowledge, and follow-up work? Where does information move between systems today?
+- **Operating model:** What implementation, partner, and ongoing support commitments are included in writing?
+- **Proof:** Run a side-by-side demonstration of the same voice and cross-channel scenarios, including failure paths and handoffs.
+
+Do not repeat the source's analyst, revenue, customer, NPS, geography, AI availability, maturity, or Zendesk comparison claims externally without current primary evidence and approval. Avoid claims that Zendesk has “no problem” with scale or that a competitor is not innovating; establish requirements and prove fit with the buyer.
+
 ## SALESFORCE
 
 ### Overview
