@@ -37,9 +37,13 @@ Why it works: It states the narrow question clearly, distinguishes evidence from
 ## Voice rules drawn from the benchmarks
 
 - Open with a specific observation that creates immediate relevance.
+- Write to the person, not about the person. Natural “I,” “you,” and “your” language should make the note sound speakable.
 - Use profile details as connective tissue, not as a summary of the prospect’s career.
 - Connect the observation to a verified company direction or a clearly labeled hypothesis.
+- Use one distinctive observation that changes the business question and is difficult to reuse unchanged.
 - Sound personal and considered without using generic praise.
+- Test suspected pain instead of asserting or exploiting it.
 - Move directly from context to the operating question or Zendesk point of view.
 - Use confident language. Remove hedging, filler, meta-commentary, and explanations of the sender’s reasoning.
 - End with one natural question that invites insight or makes disqualification easy.
+- Read the draft aloud. If it would not sound natural on a phone call, it is not ready.

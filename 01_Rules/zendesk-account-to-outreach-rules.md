@@ -59,6 +59,24 @@ Use person-specific details such as a recent role move, public post, career patt
 
 Use first-person language when it makes the note more human or makes the sender’s point of view useful. “I noticed,” “I have seen,” and “I may be looking at the wrong problem” are appropriate when they lead to a specific account or operating observation. Do not use first person to narrate research or prospecting mechanics.
 
+### Direct-conversation and cut-through standard
+
+Cold email is a conversation addressed to one person, not an account brief converted into a greeting. Read every draft aloud as if it were the opening of a phone call. If the sender could not naturally say it to the recipient, revise it.
+
+Use personal pronouns naturally:
+
+- “I” should make the sender’s observation or uncertainty accountable.
+- “You” or “your” should connect the issue to the recipient’s operating reality.
+- “We” should be rare and should not imply an existing relationship.
+
+Do not force pronouns to meet a quota. However, a draft that contains neither a natural sender perspective nor direct recipient language is a QA warning. It usually reads like research notes, a company description, or a message written about the recipient rather than to them.
+
+To cut through high-volume inboxes, every first touch must earn attention with one distinctive, concrete observation that would be difficult to reuse unchanged for another company or person. Distinctive does not mean clever, flattering, longer, or more dramatic. It means the observation changes the business question.
+
+The goal is not to exploit a suspected pain. The goal is to test whether a public signal creates a real operating consequence for this person. State the tension as a hypothesis, connect it to what the recipient may see or decide, and ask a question that lets them confirm, correct, redirect, or dismiss it.
+
+Do not claim that the account is worse than competitors without a verified comparison using the same metric, period, scope, and source quality. Without that evidence, ask where inconsistency, delay, rework, or missed visibility may exist rather than manufacturing a performance gap.
+
 ## Phase 1: Account Research
 
 Start with the company, not the people.
@@ -163,12 +181,16 @@ Email 1 rules:
 - Do not ask for a meeting
 - Do not use a product pitch
 - Do not state an unverified pain as fact
-- Keep the body under 100 words
-- Treat 100 words as a ceiling, not a target
-- When volume supports a useful test, compare 35 to 60 words with 70 to 95 words inside the same persona, offer, and channel
-- Keep the subject between two and five words
-- Use a subject under three words when possible
-- Use one clear idea
+- Aim for 50 to 100 words in the body
+- Do not remove decision-useful, verified context solely to meet the word range
+- When additional context is necessary to make the observation credible, Email 1 may extend to 140 words; keep one clear idea and one question
+- When volume supports a useful test, compare 35 to 60 words with 70 to 95 words, and when justified 100 to 140 words, inside the same persona, offer, and channel
+- Use one first-touch subject for the entire email thread. Do not create a new subject for each follow-up email.
+- Include the prospect's first name in the subject.
+- Pair the name with one specific account signal, operating tension, or role-relevant question.
+- Keep the subject between two and five words by default; allow up to seven when the added words create real recipient relevance.
+- Use one clear idea and make the subject credible across the full thread.
+- Do not treat the prospect's name alone as personalization. The second half must carry a concrete business reason to open.
 - Make the message specific enough that removing the name would weaken it
 - Use a reply-focused CTA
 
@@ -183,6 +205,8 @@ Default to no vendor name, no proof point, and no meeting ask. A controlled vend
 Email 1 should sound like a relevant business question, not a prospecting sequence. Lead with account context, state the likely consequence, and ask one diagnostic question.
 
 The first email should sound personally written for the recipient. Combine one specific observation, one plausible business tension, and one useful question. Do not explain the recipient’s job back to them or ask a broad question about their function.
+
+Apply the direct-conversation test before delivery: the message should include natural first-person or second-person language where useful, sound normal when spoken, and make the recipient feel addressed rather than analyzed. If it sounds like a research summary, profile recap, or generic account hypothesis, revise it.
 
 ### Email 2
 
@@ -271,6 +295,11 @@ Before delivering the emails, check:
 - Does each follow-up add a new implication rather than repeat the first touch?
 - Does the Zendesk email offer a practical support path tied to the business issue?
 - Does the copy use first-person language naturally without narrating the sender’s research process?
+- Does the copy address the recipient directly with natural personal pronouns where useful?
+- Does the copy pass the read-aloud phone test?
+- Does the opening contain one distinctive observation rather than generic personalization or a profile summary?
+- Does the question validate a possible operating consequence instead of exploiting or asserting unverified pain?
+- If the copy compares the account with competitors, is the comparison supported by comparable evidence?
 - Does the copy avoid telling the prospect what their job is and avoid broad questions?
 - Is the opening specific?
 - Is the pressure plausible but not overstated?
@@ -284,7 +313,7 @@ Before delivering the emails, check:
 - Is any permission-based language supported by the actual message?
 - Is any proof point matched to the prospect's business pressure?
 - Does the final email make disqualification easy?
-- Is the body under 100 words?
+- Is the body normally 50 to 100 words, or does any longer version contain necessary, verified context without adding a second idea?
 - Is the subject within the word limit?
 - Are all banned phrases removed?
 - Are there no em dashes or emojis?

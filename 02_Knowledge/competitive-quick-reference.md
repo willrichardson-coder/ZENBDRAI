@@ -15,7 +15,7 @@ Default posture is **additive** - Zendesk complements these systems. Only shift 
 | **Genesys** | "Genesys is a mess" | "Where does the current contact-center architecture create the most operational or integration effort?" |
 | **Avaya** | "Avaya is dying" | "When is the next meaningful contract or platform decision, and what would you want to improve before then?" |
 | **Microsoft Dynamics 365** | "Dynamics is bad" | "Great generalist CRM. Native CX and AI depth is where it leaves gaps - that's usually where we come in additively." |
-| **Oracle Siebel** | "Siebel is ancient" | "Modernize the service layer without touching the core CRM. Lower maintenance cost, better UX, no rip-and-replace." |
+| **Oracle Service Cloud / Fusion Service / Siebel** | "Oracle is outdated" or "Fusion cannot handle your use case" | "Which Oracle service product and components are in scope? Could we compare the same workflow, integration needs, administration model, and full-term costs?" |
 | **Jira Service Management** | "Jira isn't for this" | "Built for dev teams. Strong there. Not built for customer or employee service at scale - that's a different muscle." |
 | **Eltropy** | "Eltropy is too niche" | "Solid for financial services specifically. Vertical-specific with channel limitations if you're scaling beyond that niche." |
 

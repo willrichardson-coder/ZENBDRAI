@@ -20,10 +20,11 @@ Read [the evidence/process contract](../../references/shared/zendesk-evidence-an
 1. Define the day's outcome, time blocks, account capacity, and stop conditions.
 2. Prioritize exact accounts from authoritative ownership, suppression, fit, and current-signal evidence.
 3. Resolve contacts without repairing identity by name, company, title, or domain.
-4. Use ChatGPT to synthesize a sourced POV, questions, and draft language; it is not the source of product claims or buyer facts.
-5. Retrieve current approved Groove sequence/snippet content when required and preserve wording, merge fields, and play scope.
-6. Prepare call/outreach actions and post-action capture separately. Every live enrollment, activation, send, call, or CRM write needs its own approved payload and destination readback.
-7. End with outcomes, unresolved items, follow-up queue, and data-quality defects rather than activity totals alone.
+4. Confirm each Sumble organization maps to the exact CRM account, resolving parent, brand, or subsidiary ambiguity. Match verified account-level installed-technology observations to the relevant vendor sections in `02_Knowledge/zendesk_competitive_intel.md`, record the observation date, and carry relevant battle-card discovery context into the sourced POV and writing when it fits the recipient and approved play. Do not infer deployment scope, usage intensity, dissatisfaction, initiative, buying intent, or replacement plans; verify battle-card product and comparison claims against current approved sources before using them externally.
+5. Use ChatGPT to synthesize a sourced POV, questions, and draft language; it is not the source of product claims or buyer facts.
+6. Retrieve current approved Groove sequence/snippet content when required and preserve wording, merge fields, and play scope.
+7. Prepare call/outreach actions and post-action capture separately. Every live enrollment, activation, send, call, or CRM write needs its own approved payload and destination readback.
+8. End with outcomes, unresolved items, follow-up queue, and data-quality defects rather than activity totals alone.
 
 ## Output
 

@@ -14,7 +14,7 @@ Use when reviewing a draft, sequence, delegated output, or final outbound packag
 3. Check source links, evidence boundaries, proof approval, and current Zendesk claims.
 4. Confirm Email 1 uses the product-neutral default or is labeled as a deliberate vendor-present test. In a test, allow at most one short sentence naming Zendesk, one capability, or one matched proof point. Reject combined capability and proof, feature lists, product pitches, and meeting asks.
 5. Check the four email jobs remain distinct.
-6. Check that every personal detail bridges to the operating problem, that first-person language is natural, that follow-ups stand alone, and that Email 3 offers a concrete support path. Then check subject length, body length, placeholders, banned phrases, generic language, punctuation, and em dashes.
+6. Check that every personal detail bridges to the operating problem, that natural first- or second-person language directly addresses the recipient, that every draft passes the read-aloud phone test, that the opening is distinctive rather than reusable, that suspected pain is validated rather than asserted, that any competitor comparison is evidenced, that follow-ups stand alone, and that Email 3 offers a concrete support path. Then check that the sequence uses one threaded subject, includes the prospect's first name, pairs the name with concrete business relevance, and stays within the default subject length or justified seven-word maximum. Also check body length, placeholders, banned phrases, generic language, punctuation, and em dashes.
 7. Confirm claims do not exceed their sources.
 8. Confirm stop rules, opt-out handling, and explicit approval requirements are respected.
 
@@ -28,6 +28,10 @@ Return:
 - Editorial problems
 - Standalone-context problems in Emails 2 through 4
 - Choppy follow-ups, broad questions, or copy that tells the recipient what their job is
+- Missing direct address, unnatural pronoun use, or failure of the read-aloud phone test
+- Generic or reusable openings that will not cut through a crowded inbox
+- Asserted or exploited pain without account evidence
+- Unsupported competitor comparisons
 - Missing practical support path in the Zendesk point of view
 - Missing inputs
 - Exact recommended corrections

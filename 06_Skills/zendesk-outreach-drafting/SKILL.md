@@ -34,8 +34,16 @@ The four emails are a writing architecture, not a mandatory cadence. The live mo
 - Connect every personal detail to the operating problem; cut decorative personalization
 - Use a specific person-level observation when it sharpens the business point
 - Use natural first-person language when it adds credibility or warmth
+- Address the recipient directly with natural personal pronouns where useful; a draft with neither sender perspective nor direct recipient language is a QA warning
+- Read every draft aloud as if it were the opening of a phone call; revise anything that sounds like a research brief or profile summary
+- Use one distinctive observation that changes the business question and is difficult to reuse unchanged
+- Treat suspected pain as a hypothesis to validate, never as something to exploit or assert from public evidence
+- Do not compare performance with competitors without comparable evidence for metric, period, scope, and source quality
 - Do not tell the recipient what their job is or use role-description language
-- Subject generally two to five words
+- Use one first-touch subject for the entire email thread, not a separate subject for each email
+- Include the prospect's first name and pair it with one specific account signal, operating tension, or role-relevant question
+- Keep the subject between two and five words by default; allow up to seven when needed for real recipient relevance
+- Make the subject credible across the full thread
 - One idea and one useful question per message
 - Emails 2 through 4 must stand alone if read without the earlier emails
 - Every follow-up must add a new implication, not merely repeat the first touch
